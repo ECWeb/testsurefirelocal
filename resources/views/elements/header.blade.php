@@ -21,7 +21,7 @@
     <div :class="hasScrolled ? 'py-0' : 'py-4'" class="container px-12 mx-auto md:flex md:justify-between md:items-center" x-data="{ open: false }">
         <div class="flex items-center justify-between">
             <div>
-              <a href="/" class="flex logo-text">
+              <a href="/" class="flex text-bold text-[24px] md:text-[32px]">
                 <span>Coupons</span><span style="color:#FFFFFF">Plus</span><span>Deals</span>
               </a>
             </div>
